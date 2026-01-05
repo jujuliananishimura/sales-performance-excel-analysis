@@ -1,4 +1,4 @@
-# Sales Analysis Project 📊
+# Sales Analysis Project 
 
 ## Project Overview
 This project analyzes historical sales data to identify trends, product performance, and the relationship between sales and discounts.  
@@ -21,7 +21,7 @@ The dataset includes the following fields:
 - Discount  
 - Discount %  
 
-Data was cleaned prior to analysis (numeric formatting standardized, percentages corrected, and date fields validated).
+Data was cleaned before analysis (numeric formatting standardized, percentages corrected, and date fields validated).
 
 ---
 
